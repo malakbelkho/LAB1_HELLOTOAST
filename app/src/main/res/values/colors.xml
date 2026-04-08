@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_bg">#071A1D</color>
+    <color name="panel_bg">#0D2B30</color>
+    <color name="panel_stroke">#29F0D0</color>
+
+    <color name="counter_bg">#10383E</color>
+    <color name="counter_stroke">#7CFFEA</color>
+    <color name="counter_text">#E9FFFB</color>
+
+    <color name="btn_top_start">#1E3A8A</color>
+    <color name="btn_top_end">#1E40AF</color>
+
+    <color name="btn_bottom_start">#065F46</color>
+    <color name="btn_bottom_end">#047857</color>
+
+    <color name="button_stroke">#A7FFF3</color>
+    <color name="button_text">#FFFFFF</color>
+</resources>
