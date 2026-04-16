@@ -5,7 +5,7 @@ Le but de ce laboratoire est de créer une application Android simple permettant
 - Manipuler des composants graphiques (UI)
 - Gérer les interactions utilisateur
 - Comprendre les événements (clics sur les boutons)
-## Description de l’application
+## Description de l’application:
 L’application contient :
 - Un TextView pour afficher un compteur
 - Un bouton pour afficher un message Toast
@@ -23,7 +23,7 @@ L’application contient :
 
 <img width="240" height="546" alt="intf" src="https://github.com/user-attachments/assets/35c6d526-140d-4edd-9ba3-529d6c373d87" />
 
-### Interface de l’application en fonctionnement :
+### Interface de l’application en fonctionnement:
   - Compteur dynamique (ici : 33)
   - Bouton TOAST → affiche un message
   - Bouton COUNT → incrémente le compteur
