@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         Button triggerIncrement = findViewById(R.id.btn_count);
 
         triggerToast.setOnClickListener(view -> {
-            String welcomeMsg = "Toast";
+            String welcomeMsg = "HELLOOOOO!!!";
             Toast.makeText(this, welcomeMsg, Toast.LENGTH_SHORT).show();
         });
 

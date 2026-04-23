@@ -14,7 +14,7 @@
         android:background="@drawable/main_panel">
 
         <!-- TOP BUTTON -->
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn_toast"
             android:layout_width="match_parent"
             android:layout_height="58dp"
@@ -54,7 +54,7 @@
         </LinearLayout>
 
         <!-- BOTTOM BUTTON -->
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn_count"
             android:layout_width="match_parent"
             android:layout_height="58dp"
